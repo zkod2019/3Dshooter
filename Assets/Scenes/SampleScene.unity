@@ -367,8 +367,8 @@ MonoBehaviour:
   bulletPrefab: {fileID: 9060996405224692890, guid: a8b0ebe45d2274145b073d2f88ad25ed, type: 3}
   bulletSpeed: 10
   moveSpeed: 5
-  rb: {fileID: 0}
-  cam: {fileID: 963194227}
+  speed: 10
+  rotationOffset: 10
 --- !u!23 &993606881
 MeshRenderer:
   m_ObjectHideFlags: 0
